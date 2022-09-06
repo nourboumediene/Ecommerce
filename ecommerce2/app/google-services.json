@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930394086218",
+    "project_id": "nb-merce",
+    "storage_bucket": "nb-merce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930394086218:android:9db70a08d608eef4607fb3",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930394086218-7s233rif4t1jo8g4lc93quq50o274ffh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjHvd4AddcxGjYjR0trjyIG68nIfU57E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930394086218-7s233rif4t1jo8g4lc93quq50o274ffh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
